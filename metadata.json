@@ -1,0 +1,8 @@
+{
+  "name": "SD ALMERIA",
+  "description": "Aplicación web para gestionar la plantilla de jugadores y los partidos del equipo con vídeos de YouTube integrados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
